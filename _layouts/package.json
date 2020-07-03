@@ -4,7 +4,7 @@
   "description": "",
   "version": "1.0.0",
   "dependencies": {
-    "gatsby": "^2.21.22",
+    "gatsby": "^2.23.1",
     "gatsby-theme-garden": "^0.1.28",
     "react": "^16.3.1",
     "react-dom": "^16.3.1"
