@@ -1,11 +1,18 @@
-# Foam
+# Welcome 👋🏻
 
-👋 Welcome to your new Foam Workspace!
+Hey there, welcome to Martin's `thoughts`, also known as my _public Foam bubble_. The easiest way to navigate this is via the map in the top-right corner.
 
-## Getting started
+[[todo]]: improve this tl;dr
 
-This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/MacOS/Windows machine.
+## Foam 🤔
 
+Yes, [Foam](https://github.com/foambubble/foam).
+
+![Dr. Evil sipping a latte and leaving foam on his nose](https://media.giphy.com/media/Y4qF2b3IfBA78eRhct/giphy.gif)
+
+As written on the [project `readme.md`](https://github.com/foambubble/foam/blob/master/readme.md):
+
+<<<<<<< HEAD
 1. If you haven't yet, browse over to the main [Foam documentation workspace](https://foambubble.github.io/foam) to get an idea of what Foam is and how to use it.
 2. Press "Use this template" button at [foam-gatsby-template](https://github.com/mathieudutour/foam-gatsby-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
 3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
@@ -14,29 +21,48 @@ This documentation assumes that you have a GitHub account and have [Visual Studi
 
 4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
 5. Open [_layouts/gatsby-config.js](_layouts/gatsby-config.js) and edit the `pathPrefix` to be the name of the repository.
+=======
+> **Foam** is a personal knowledge management and sharing system inspired by [Roam Research](https://roamresearch.com/), built on [Visual Studio Code](https://code.visualstudio.com/) and [GitHub](https://github.com/).
+>
+> You can use **Foam** for organising your research, keeping re-discoverable notes, writing long-form content and, optionally, publishing it to the web.
+>
+> **Foam** is free, open source, and extremely extensible to suit your personal workflow. You own the information you create with Foam, and you're free to share it, and collaborate on it with anyone you want.
+>>>>>>> 63447a1... Scaffolding notes
 
-After setting up the repository, open [.vscode/settings.json](.vscode/settings.json) and edit, add or remove any settings you'd like for your Foam workspace.
+## Why
 
-To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/recipes) bubbles of the Foam documentation workspace.
+This repo encapsulates my efforts to test a few hypotheses concurrently:
 
-## Using Foam
+1. Writing my thoughts down will help me practice:
 
-We've created a few Bubbles (markdown documents) to get you started.
+   - focus
+   - mindfulness
+   - slowing down
 
-- [[inbox]] - a place to write down quick notes to be categorised later
-- [[foam-tips]] - tips to get the most out of your Foam workspace
-- [[todo]] - a place to keep track of things to do
+1. Sharing more of my thoughts in public will benefit myself and at least a few people around me
+1. Using an open-source tool every day will enocourage me to contribute back in a meaningful way
 
-## Note on `[[wiki-links]]`
+   - [x] contribute to Foam docs
+   - [ ] help develop Foam on Gatsby
 
-⚠️ Until [foambubble/foam#16](https://github.com/foambubble/foam/issues/16) is resolved, `[[wiki-links]]` links (like the links above) won't work in the GitHub Markdown preview (i.e. this Readme on github.com).
+1. `Foam` could be a perfect replacement for:
+   - Shitty + often-expensive notetaking software
+   - A blog for my website
+   - Ten-thread tweets that probably shouldn't be tweets - [follow me](https://twitter.com/martinblaws) anyway
 
-They should work as expected in VS Code, and in rendered GitHub Pages.
+## Getting started
 
-If GitHub preview (or general 100% support with all Markdown tools) is a requirement, for the time being you can use the standard `[description](page.md)` syntax.
+The following are my recommended entrypoints to this somewhat organized chaos:
+
+- [[about]]
+- [[core-principles]]
+
+## Note on this repo
+
+⚠️ As is clear from the repo title - these files represent my barely-structured thoughts. Some will be more fully-formed than others. My career so far has been rooted in prototyping - being scrappy and resourceful, building quickly, and iterating often. I am applying the same approach to this repo. If there's anything in here that you percieve as problematic, unincluisive, in conflict with my stated [[core-principles]], or straight-up wrong: **please let me know**! You're welcome to open a [GitHub issue on this repo](https://github.com/martinlaws/thoughts/issues/new) if you feel comfortable doing so publicly, or send me a private email at [mlaws@hey.com](mailto:mlaws@hey.com).
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
-[inbox]: inbox "Inbox"
-[foam-tips]: foam-tips "Foam tips"
-[todo]: todo "Todo"
+[todo]: todo "Todos"
+[about]: about "About"
+[core-principles]: core-principles "Core Principles"
 [//end]: # "Autogenerated link references"
