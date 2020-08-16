@@ -14,6 +14,8 @@ Here's a relatively up-to-date look at my reading habits:
 
 - [Calypso](https://www.goodreads.com/book/show/38348476-calypso?from_search=true&from_srp=true&qid=pMxS2dwIo3&rank=1)
 
+---
+
 ## For growth
 
 **Current:** [Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (And World Peace)
