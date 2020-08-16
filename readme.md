@@ -1,12 +1,48 @@
-# Welcome 👋🏻
+# Welcome to my digital garden 🌱
 
-Hey there, welcome to Martin's `thoughts`, also known as my _public Foam bubble_. The easiest way to navigate this is via the map in the top-right corner.
+I'm [[Martin]], an internet tinkerer lucky enough to design with code for a living.
 
-[[todo]]: improve this tl;dr
+The majority of my [[work]] is scrappy, resourceful, collaborative, iterative prototyping. This site is my attempt to apply the same approach to my writing. I'm hardly concerned with the final "showpiece", much more interested in exploring the process, care and craft it takes to get there.
 
-## Foam 🤔
+## This blog is not a blog
 
-Yes, [Foam](https://github.com/foambubble/foam).
+In his digital garden, [Joel Hooks](https://joelhooks.com/digital-garden) writes:
+
+> What makes a garden is interesting. It's personal. Things are organized and orderly, but with a touch of chaos around the edges.
+>
+> Just like plants in the garden I've got posts that are in various stages of growth and nurturing. Some might wither and die, and others (like this one you are reading) will flourish and provide a source of continued for the gardener and folks in community that visit 👋
+
+This is my space, for me, in public. I have a private space, but what's the fun in a digital garden if you can't share the resulting veggies with your friends?
+
+## No tracking, clickbait, or bullshit
+
+This site is 100% free of Google Analytics, automatic indexing, search engine optimization, tracking cookies, monetization, advertising, or any other evil nonsense. I know how this shit works, I used to build it (see: [[work]]).
+
+## Who this is for
+
+The primary audience for this site is future Martin. I love being able to `cmd + f` my notes/thoughts, and will default to sharing them publicly. As such, I'll mostly be sharing thoughts freeform with minimal organization/structure.
+
+The secondary audience for this site is my friends and family. I predict that it will be a little bit easier to share resources, notes, videos, recipes, just about everything, in this format. I'm going to share early and often.
+
+As such, I'm not going to wait to form ideas perfectly before sharing - I'll plant little seedlings, nuturing them as I go (and losing some along the way).
+
+⚠️ If there's anything in here that you percieve as problematic, unincluisive, in conflict with my own [[core-principles]], or straight-up wrong: **please let me know**! You're welcome to open a [GitHub issue on this repo](https://github.com/martinlaws/thoughts/issues/new) if you feel comfortable doing so publicly, or send me a [private email](mailto:mlaws@hey.com).
+
+## Curation and relationships > indexing and file paths
+
+I'm no information architect. I am sold on a different way of navigating content: curation and relationships (links). I'll curate links to other pages thoughtfully (see: the vewry next section). You can explore those links in two ways:
+
+1. The _Link Map_ accessible by clicking on the blue icon in the top-right corner of [this page](https://thoughts.mlaws.ca)
+2. The _Referenced in_ section on the bottom of each page (auto-generated)
+
+## Greatest hits ⭐️
+
+- 📓[[journal]]
+- 🤘🏻[[core-principles]]
+
+## How I built this 🏗
+
+This is a _public Foam workspace_. Yes, [Foam](https://github.com/foambubble/foam)
 
 ![Dr. Evil sipping a latte and leaving foam on his nose](https://media.giphy.com/media/Y4qF2b3IfBA78eRhct/giphy.gif)
 
@@ -29,9 +65,9 @@ As written on the [project `readme.md`](https://github.com/foambubble/foam/blob/
 > **Foam** is free, open source, and extremely extensible to suit your personal workflow. You own the information you create with Foam, and you're free to share it, and collaborate on it with anyone you want.
 >>>>>>> 63447a1... Scaffolding notes
 
-## Why
+## Why I built this 🤔
 
-This repo encapsulates my efforts to test a few hypotheses concurrently:
+This project encapsulates my efforts to test a few hypotheses concurrently:
 
 1. Writing my thoughts down will help me practice:
 
@@ -39,30 +75,20 @@ This repo encapsulates my efforts to test a few hypotheses concurrently:
    - mindfulness
    - slowing down
 
-1. Sharing more of my thoughts in public will benefit myself and at least a few people around me
-1. Using an open-source tool every day will enocourage me to contribute back in a meaningful way
+2. Sharing more of my thoughts in public will benefit myself and at least a few people around me
+3. Using an open-source tool every day will enocourage me to contribute back in a meaningful way
 
    - [x] contribute to Foam docs
    - [ ] help develop Foam on Gatsby
 
-1. `Foam` could be a perfect replacement for:
+4. `Foam` could be a perfect replacement for:
    - Shitty + often-expensive notetaking software
    - A blog for my website
    - Ten-thread tweets that probably shouldn't be tweets - [follow me](https://twitter.com/martinblaws) anyway
 
-## Getting started
-
-The following are my recommended entrypoints to this somewhat organized chaos:
-
-- [[about]]
-- [[core-principles]]
-
-## Note on this repo
-
-⚠️ As is clear from the repo title - these files represent my barely-structured thoughts. Some will be more fully-formed than others. My career so far has been rooted in prototyping - being scrappy and resourceful, building quickly, and iterating often. I am applying the same approach to this repo. If there's anything in here that you percieve as problematic, unincluisive, in conflict with my stated [[core-principles]], or straight-up wrong: **please let me know**! You're welcome to open a [GitHub issue on this repo](https://github.com/martinlaws/thoughts/issues/new) if you feel comfortable doing so publicly, or send me a private email at [mlaws@hey.com](mailto:mlaws@hey.com).
-
 [//begin]: # "Autogenerated link references for markdown compatibility"
-[todo]: todo "Todos"
-[about]: about "About"
+[Martin]: martin "Martin"
+[work]: work "Work"
 [core-principles]: core-principles "Core Principles"
+[journal]: journal "Journal"
 [//end]: # "Autogenerated link references"
