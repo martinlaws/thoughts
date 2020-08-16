@@ -6,27 +6,27 @@ I'm [[Martin]], an internet tinkerer lucky enough to design with code for a livi
 
 The majority of my [[work]] is scrappy, resourceful, collaborative, iterative prototyping. This site is my attempt to apply the same approach to my writing. I'm hardly concerned with the final "showpiece", much more interested in exploring the process, care and craft it takes to get there.
 
-## This blog is not a blog
+## What the fuck is a digital garden? 🤔
 
-In his digital garden, [Joel Hooks](https://joelhooks.com/digital-garden) writes:
+Joel Hooks of [egghead.io](https://egghead.io) writes about [his own digital garden](https://joelhooks.com/digital-garden):
 
 > What makes a garden is interesting. It's personal. Things are organized and orderly, but with a touch of chaos around the edges.
 >
 > Just like plants in the garden I've got posts that are in various stages of growth and nurturing. Some might wither and die, and others (like this one you are reading) will flourish and provide a source of continued for the gardener and folks in community that visit 👋
 
-This is my space, for me, in public. I have a private space, but what's the fun in a digital garden if you can't share the resulting veggies with your friends?
+This is my space, for me, in public. I have a private foam workspace for personal notes, but what's the fun in having a digital garden if you can't share the harvest with your friends?
 
-## No tracking, clickbait, or bullshit
+> For anyone interested in learning more about the concept of digital gardening, read: [Tom Critchlow: Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/).
+
+## No tracking, clickbait, or sneaky bullshit
 
 This site is 100% free of Google Analytics, automatic indexing, search engine optimization, tracking cookies, monetization, advertising, or any other evil nonsense. I know how this shit works, I used to build it (see: [[work]]).
 
 ## Who this is for
 
-The primary audience for this site is future Martin. I love being able to `cmd + f` my notes/thoughts, and will default to sharing them publicly. As such, I'll mostly be sharing thoughts freeform with minimal organization/structure.
+The primary audience for this site is future Martin. I love being able to `cmd + f` my notes/thoughts, and see so many upsides to sharing them publicly. As such, I'll mostly be sharing thoughts freeform with minimal organization/structure/editing.
 
-The secondary audience for this site is my friends and family. I predict that it will be a little bit easier to share resources, notes, videos, recipes, just about everything, in this format. I'm going to share early and often.
-
-As such, I'm not going to wait to form ideas perfectly before sharing - I'll plant little seedlings, nuturing them as I go (and losing some along the way).
+The secondary audience for this site is my friends and family. I predict that it will be a little bit easier to share resources, notes, videos, recipes, just about everything, in this format. I'm going to share early and often. As such, I'm not going to wait to form ideas perfectly before sharing - I'll plant little seedlings, comments and feedback are welcome.
 
 ⚠️ If there's anything in here that you percieve as problematic, unincluisive, in conflict with my own [[core-principles]], or straight-up wrong: **please let me know**! You're welcome to open a [GitHub issue on this repo](https://github.com/martinlaws/thoughts/issues/new) if you feel comfortable doing so publicly, or send me a [private email](mailto:mlaws@hey.com).
 
@@ -39,6 +39,7 @@ I'm no information architect. I am sold on a different way of navigating content
 
 ## Greatest hits ⭐️
 
+- 💼 [[work]]
 - 📓[[journal]]
 - 🤘🏻[[core-principles]]
 
