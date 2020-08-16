@@ -1,5 +1,7 @@
 # Welcome to my digital garden 🌱
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2cfc85ea-e8a8-46ec-8a1c-4d074687fa27/deploy-status)](https://app.netlify.com/sites/mlaws-thoughts/deploys)
+
 I'm [[Martin]], an internet tinkerer lucky enough to design with code for a living.
 
 The majority of my [[work]] is scrappy, resourceful, collaborative, iterative prototyping. This site is my attempt to apply the same approach to my writing. I'm hardly concerned with the final "showpiece", much more interested in exploring the process, care and craft it takes to get there.
