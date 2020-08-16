@@ -11,3 +11,5 @@
   # directory located at the absolute path "root/project/build-output"
   publish = "public/"
   command = "npm run build"
+
+  ignore = "/bin/false"
